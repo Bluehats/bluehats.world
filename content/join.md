@@ -12,7 +12,7 @@ website by creating a [pull
 request](https://github.com/Bluehats/bluehats.global) or [sending us
 an email](bluehats@bzg.fr).
 
-## 📅 Subscribe to the [public calendar](http://bluehats.global/bluehats.ics)
+## 📅 Subscribe to the [public calendar](https://bluehats.global/bluehats.ics)
 
 ## 🐘 Follow us on [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
 
