@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 3
 ---
 
-## 🧢 Show your support 
+## Show your support 
 
 In your `README.md`:
 

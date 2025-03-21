@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 5
 ---
 
-## 🧢 Free Software in, by and for the public sector
+## 🏛️ Free Software in, by and for the public sector
 
 Free Software gives everybody the right to use, study, share and
 improve software. BlueHats is a worldwide community of public servants
