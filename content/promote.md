@@ -7,17 +7,15 @@ eleventyNavigation:
 
 ## Show your support 
 
-In your `README.md`:
+[![img](https://img.shields.io/badge/I%20support-BlueHats-blue.svg)](https://bluehats.global)
 
-```
-[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.global)
-```
+In your `README.md`: 
 
-In your `README.org`:
+`[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.global)`
 
-```
-[[https://bluehats.global][https://img.shields.io/badge/We%20support-BlueHats-blue.svg]]
-```
+In your `README.org`: 
+
+`[[https://bluehats.global][https://img.shields.io/badge/I%20support-BlueHats-blue.svg]]`
 
 ## 🖊️ Reusable visuals under CC0
 
