@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## 🐘 Follow us on [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
 
-## 🧢 Announce an event
+## 📢 Announce an event
 
 If you want to share `#BlueHats` events, please contribute to this
 website by creating a [pull
