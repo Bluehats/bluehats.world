@@ -15,4 +15,4 @@ eleventyNavigation:
 
 Please [join us](join) and [promote](promote) our movement.
 
-<img alt="First BlueHats in 2018" width="100%" src="/img/bluehats_2018.webp"/>
+<img alt="First BlueHats in 2018" width="100%" src="img/bluehats_2018.webp"/>
