@@ -1,8 +1,8 @@
-[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.global)
+[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.world)
 
 # Introduction
 
-This is the repository for the [https://bluehats.global](https://bluehats.global) website.
+This is the repository for the [https://bluehats.world](https://bluehats.world) website.
 
 # Add an event
 

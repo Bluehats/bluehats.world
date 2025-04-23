@@ -1,12 +1,12 @@
 ---
 title: Hello world!
-description: Presenting the bluehats.global website
+description: Presenting the bluehats.world website
 date: 2023-10-04
 ---
 
-## Introducing bluehats.global
+## Introducing bluehats.world
 
-Welcome to this website designed to promote BlueHats as a global
+Welcome to this website designed to promote BlueHats as a worldwide
 movement. We use it to announce BlueHats events around the world and
 to help BlueHats connect with each other.
 

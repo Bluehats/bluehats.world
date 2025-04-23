@@ -14,7 +14,7 @@ Free and Open Source software in, by and for the public sector.
 BlueHats believe that taxes should go to Free Software and support the
 principle of "public money, public code".
 
-If you endorse our [manifesto](https://bluehats.global), please
+If you endorse our [manifesto](https://bluehats.world), please
 [join](/join) and [promote](/promote) our movement.
 
 ### 🙏 Maintainers
