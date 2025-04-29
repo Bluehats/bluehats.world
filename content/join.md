@@ -7,14 +7,14 @@ eleventyNavigation:
 
 ## ✉️ Subscribe to our [newsletter](https://bluehats.world/newsletter)
 
-## 🐘 Follow us on [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
+## 🐘 Follow us on [floss.social/@bluehats](https://floss.social/@bluehats)
 
 ## 📢 Announce an event
 
 If you want to share `#BlueHats` events, please contribute to this
 website by creating a [pull
 request](https://github.com/Bluehats/bluehats.world) or [sending us
-an email](bluehats@bzg.fr).
+an email](mailto:bluehats@bzg.fr).
 
 ## 📅 Import our [public calendar](https://bluehats.world/bluehats.ics)
 
