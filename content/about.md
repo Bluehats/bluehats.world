@@ -17,11 +17,11 @@ principle of "public money, public code".
 If you endorse our [manifesto](https://bluehats.world), please
 [join](/join) and [promote](/promote) our movement.
 
-### 🙏 Maintainers
+### Maintainers
 
 - Bastien Guerry, France, [French Gov OSPO](https://code.gouv.fr)
 - Boris Baldassari, France, [OSPO Alliance](https://ospo-alliance.org)
 - Jacob Green, United States, OSPO++
 - Philippe Bareille, France, [City of Paris OSPO](https://opensource.paris.fr)
 
-### ✉️ Don't hesitate to [write us an email](mailto:bluehats@bzg.fr)
+### Don't hesitate to [write us an email](mailto:bluehats@bzg.fr)
