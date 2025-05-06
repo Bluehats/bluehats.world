@@ -7,7 +7,7 @@ eleventyNavigation:
 
 ## 📢 Show your support
 
-[![img](https://img.shields.io/badge/I%20support-BlueHats-blue.svg)](https://bluehats.world)
+[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.world)
 
 In your `README.md`:
 
@@ -15,7 +15,7 @@ In your `README.md`:
 
 In your `README.org`:
 
-`[[https://bluehats.world][https://img.shields.io/badge/I%20support-BlueHats-blue.svg]]`
+`[[https://bluehats.world][https://img.shields.io/badge/We%20support-BlueHats-blue.svg]]`
 
 ## Reusable visuals under CC0
 
