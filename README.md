@@ -1,4 +1,4 @@
-[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.world)
+[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg?style=for-the-badge)](https://bluehats.world)
 
 # Introduction
 
