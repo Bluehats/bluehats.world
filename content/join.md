@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: Join
-  order: 2
+  order: 3
 ---
 
 ## 🐘 Follow us on [floss.social/@bluehats](https://floss.social/@bluehats)
