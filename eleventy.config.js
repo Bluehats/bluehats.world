@@ -10,8 +10,6 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 
-const calendarPlugin = require("@codegouvfr/eleventy-plugin-calendar");
-
 module.exports = function(eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
     // For example, `./public/css/` ends up in `_site/css/`
@@ -38,12 +36,6 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPlugin(pluginNavigation);
     eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
     eleventyConfig.addPlugin(pluginBundle);
-    eleventyConfig.addPlugin(calendarPlugin, {
-        defaultDuration: 60,
-        defaultOrganizer: {
-            name: "BlueHats"
-        }
-    });
 
     // Filters
     eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
